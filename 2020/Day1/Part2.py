@@ -1,4 +1,5 @@
 from typing import List
+import numpy as np
 
 def sum_part2(x: List[float] ) -> float:
     """
