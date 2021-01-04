@@ -43,4 +43,4 @@ if __name__ == "__main__":
         if valid:
             n_valid+=1
 
-    print("The number of passwords that are valid according to their policies is:", n_valid)
+    print("The number of passwords that are valid according to their policies are:", n_valid)
